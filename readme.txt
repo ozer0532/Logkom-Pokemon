@@ -1,6 +1,28 @@
 POKEMON WORLD GAMES
-"Games survival role-playing bertemakan Pokemon"
+"Survival role-playing game with a Pokemon theme"
 
+[Explanation (English)]
+Each player will enter a world of Pokemon
+and be helped by Doraemon the Pokemon Expert.
+There are pokemons that have fone missing in this world
+and the players must catch all the wild pokemons roaming about.
+Each pokemon captured makes the player stronger
+and able to control the pokemon.
+This game becomes more fun with the introduction of legendary pokemons!
+If the player captures all legendary pokemons, the player wins.
+
+What do I need?
+All the files in this repo and GNU Prolog.
+
+How do I run this game?
+	1. Consult the main.pl file in this folder in GNU Prolog
+	2. Run the command 'start' to run the game.
+	3. After the homepage shows up, you can play the game as you like
+	4. If in any point you cannot remember the commands to use, run the command 'help'
+	   Help will give information about the command you run
+	5. You can now enjoy the game, have fun!
+
+[Penjelasan (Indonesian)]
 Setiap pemain akan masuk kedunia Pokemon,
 dan akan dibantu oleh Doraemon the Pokemon expert.
 Terdapat pokemon yang hilang didunia pokemon, 
